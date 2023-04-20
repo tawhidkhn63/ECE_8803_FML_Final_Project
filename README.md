@@ -9,4 +9,23 @@ Download and extract the "Prime_FULL" dataset from https://zenodo.org/record/710
 
 ## K-Nearest Neighbors
 
-Make sure dataset is in same directory as  the "knn.py" file.
+1. Make sure dataset is in same directory as  the "knn.py" file:
+    .
+    ├── ...
+    ├── Downloads
+          ├── Prime_FULL                
+          ├── knn.py 
+    ├── ...
+         
+ 
+2. Open command line and navigate to the directory where the dataset and code is such as "Downloads" directory in this example. 
+
+3. Run the following command and specify count of neighbors k such as "5":
+
+  ```console
+  python knn.py --number_neighbors 5
+  ```
+  
+4. The program will output to terminal various performance metrics of the model:
+
+   ![image](https://user-images.githubusercontent.com/39498885/233450543-f0ca5dba-1997-419f-9f06-b194b425e925.png)
