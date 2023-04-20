@@ -5,7 +5,7 @@ This Repository contains code for 4 classifications methods we used: K-Nearest N
 
 ## Downloading Dataset
 
-Download and extract the "Prime_FULL" dataset. 
+Download and extract the "Prime_FULL" dataset from https://zenodo.org/record/7105232 
 
 ## K-Nearest Neighbors
 
