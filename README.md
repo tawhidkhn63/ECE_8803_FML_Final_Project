@@ -68,7 +68,7 @@ Download and extract the "Prime_FULL" dataset from https://zenodo.org/record/710
 3. Run the following command and specify maximum number of iterations in algorithm such as "1500":
 
     ```console
-    python logreg.py --epochs 1000
+    python logreg.py --epochs 1500
     ```
   
 4. The program will output to terminal various performance metrics of the model:
