@@ -87,5 +87,14 @@ Download and extract the "Prime_FULL" dataset from https://zenodo.org/record/710
     True Positive Rate: 0.70
     False Positive Rate: 1.52
     ```
+## CNN & Random Forest
 
-   
+The codes were written using Jupyter on PACE-ICE and utilize the specific location where the dataset was uploaded. Therefore, they need to be run on the same platform.
+
+Instructions to run the CNN-AlexNet and Random Forest codes:
+
+1. Download the two ipynb files: OCT_CNN_AlexNet.ipynb and OCT_Random_Forest.ipynb, onto your device.
+2. Go to the home directory on your Jupyter Notebook and upload the two files using the upload option on the top right.
+3. Once uploaded, click on the two ipynb files.
+4. Run each of the code blocks to generate the ouptuts.
+
